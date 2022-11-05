@@ -1,1 +1,1 @@
-# Spring_study
+# Spring_jpa
